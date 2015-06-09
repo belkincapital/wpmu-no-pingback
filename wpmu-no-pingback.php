@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: WPMU No Pingback
- * Description: You can remove the XML-RPC pingback functionality completely with this WordPress Plugin.
+ * Description: You can remove the XML-RPC pingback headers on your site with this WordPress Plugin.
  * Author: Jason Jersey
  * Version: 1.0
  */
